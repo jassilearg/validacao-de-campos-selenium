@@ -1,0 +1,15 @@
+# Ignore IDE-specific directories
+.idea/
+.vscode/
+
+# Ignore Maven wrapper files
+AmbienteSelenium/.mvn/wrapper/maven-wrapper.jar
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
